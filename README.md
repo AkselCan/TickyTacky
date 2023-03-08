@@ -1,4 +1,4 @@
-# TickyTacky :notes:
+# TickyTacky ❎⚪
 
 ## Table of Contents
 1. [Overview](#Overview)
